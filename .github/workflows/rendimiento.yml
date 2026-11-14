@@ -29,6 +29,25 @@ jobs:
           # Deja el comando jmeter disponible para los pasos siguientes
           echo "$HOME/apache-jmeter-5.6.3/bin" >> "$GITHUB_PATH"
 
+      - name: Instalar los plugins que usa el plan (Plugins Manager)
+        run: |
+          J="$HOME/apache-jmeter-5.6.3"
+          curl -fsSL -o "$J/lib/ext/jmeter-plugins-manager-2.0.jar" https://repo1.maven.org/maven2/kg/apc/jmeter-plugins-manager/2.0/jmeter-plugins-manager-2.0.jar
+          curl -fsSL -o "$J/lib/cmdrunner-2.3.jar" https://repo1.maven.org/maven2/kg/apc/cmdrunner/2.3/cmdrunner-2.3.jar
+          java -cp "$J/lib/ext/jmeter-plugins-manager-2.0.jar" org.jmeterplugins.repository.PluginManagerCMDInstaller
+          # Instala los plugins jpgc que aparecen en el plan (Transactions per Second y PerfMon)
+          "$J/bin/PluginsManagerCMD.sh" install-for-jmx "$GITHUB_WORKSPACE/pruebas/jmeter/Ticketmania.jmx"
+          # El Plugins Manager copia los archivos en un proceso aparte: esperar a que queden instalados
+          for i in $(seq 1 30); do
+            if ls "$J"/lib/ext/jmeter-plugins-perfmon-*.jar "$J"/lib/ext/jmeter-plugins-graphs-basic-*.jar > /dev/null 2>&1; then
+              ls "$J/lib/ext" | grep jmeter-plugins
+              exit 0
+            fi
+            sleep 2
+          done
+          echo "No se instalaron los plugins"
+          exit 1
+
       - name: Verificar Java y JMeter
         run: |
           java -version
