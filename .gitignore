@@ -1,0 +1,6 @@
+# Resultados crudos de JMeter (pesados); los reportes HTML si se versionan
+*.jtl
+jmeter.log
+pruebas/jmeter/reporte/
+__pycache__/
+~$*

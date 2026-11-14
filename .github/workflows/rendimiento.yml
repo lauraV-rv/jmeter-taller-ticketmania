@@ -1,0 +1,86 @@
+name: Pruebas de rendimiento
+
+# Se ejecuta con cada push a main o a mano desde la pestaña Actions.
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  rendimiento:
+    name: JMeter - escenario del despliegue
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Java 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Instalar JMeter 5.6.3
+        run: |
+          curl -fsSL -o /tmp/jmeter.tgz https://archive.apache.org/dist/jmeter/binaries/apache-jmeter-5.6.3.tgz
+          tar -xzf /tmp/jmeter.tgz -C "$HOME"
+          # Deja el comando jmeter disponible para los pasos siguientes
+          echo "$HOME/apache-jmeter-5.6.3/bin" >> "$GITHUB_PATH"
+
+      - name: Verificar Java y JMeter
+        run: |
+          java -version
+          jmeter --version
+
+      - name: Levantar la API en el puerto 8080
+        run: nohup python3 api/ticketmania_simple.py --puerto 8080 > api.log 2>&1 &
+
+      - name: Esperar a que /api/salud responda
+        run: |
+          for i in $(seq 1 30); do
+            if curl -fsS http://127.0.0.1:8080/api/salud; then
+              echo
+              echo "API lista"
+              exit 0
+            fi
+            sleep 2
+          done
+          echo "La API no respondio a tiempo"
+          cat api.log
+          exit 1
+
+      - name: Ejecutar el plan en modo no-GUI
+        working-directory: pruebas/jmeter
+        run: jmeter -n -t Ticketmania.jmx -l resultados.jtl -e -o reporte
+
+      - name: Revisar peticiones fallidas en el .jtl
+        working-directory: pruebas/jmeter
+        run: |
+          python3 - <<'EOF'
+          import csv
+          import sys
+
+          with open("resultados.jtl", newline="", encoding="utf-8") as f:
+              filas = list(csv.DictReader(f))
+
+          fallidas = [r for r in filas if r["success"] != "true"]
+          print(f"Muestras: {len(filas)}  Fallidas: {len(fallidas)}")
+          for r in fallidas[:20]:
+              print(f"  {r['label']}: {r['responseCode']} {r['responseMessage']} {r['failureMessage']}")
+
+          # JMeter no marca el job como fallido cuando una peticion responde mal,
+          # por eso este paso termina en rojo si hay al menos una muestra fallida.
+          if not filas or fallidas:
+              sys.exit(1)
+          EOF
+
+      - name: Subir el reporte como artefacto
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: reporte-rendimiento
+          path: |
+            pruebas/jmeter/reporte
+            pruebas/jmeter/resultados.jtl
