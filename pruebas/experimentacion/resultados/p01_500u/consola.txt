@@ -1,0 +1,21 @@
+﻿WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Creating summariser <summary>
+Created the tree successfully using P01_carga_usuarios.jmx
+Starting standalone test @ 2026 Nov 13 19:20:04 COT (1794615604845)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +      1 in 00:00:01 =    1.0/s Avg:    24 Min:    24 Max:    24 Err:     0 (0.00%) Active: 13 Started: 13 Finished: 0
+summary +   5008 in 00:00:24 =  208.4/s Avg:     1 Min:     0 Max:     8 Err:     0 (0.00%) Active: 417 Started: 417 Finished: 0
+summary =   5009 in 00:00:25 =  200.5/s Avg:     1 Min:     0 Max:    24 Err:     0 (0.00%)
+summary +  14680 in 00:00:30 =  489.4/s Avg:     1 Min:     0 Max:    11 Err:     3 (0.02%) Active: 500 Started: 500 Finished: 0
+summary =  19689 in 00:00:55 =  358.1/s Avg:     1 Min:     0 Max:    24 Err:     3 (0.02%)
+summary +  14840 in 00:00:30 =  494.7/s Avg:     6 Min:     0 Max:    36 Err: 12556 (84.61%) Active: 500 Started: 500 Finished: 0
+summary =  34529 in 00:01:25 =  406.3/s Avg:     3 Min:     0 Max:    36 Err: 12559 (36.37%)
+summary +  14831 in 00:00:30 =  494.3/s Avg:     7 Min:     1 Max:    45 Err: 14783 (99.68%) Active: 500 Started: 500 Finished: 0
+summary =  49360 in 00:01:55 =  429.3/s Avg:     4 Min:     0 Max:    45 Err: 27342 (55.39%)
+summary +   2587 in 00:00:05 =  488.2/s Avg:     7 Min:     1 Max:    25 Err:  2587 (100.00%) Active: 0 Started: 500 Finished: 500
+summary =  51947 in 00:02:00 =  431.9/s Avg:     4 Min:     0 Max:    45 Err: 29929 (57.61%)
+Tidying up ...    @ 2026 Nov 13 19:22:05 COT (1794615725302)
+... end of run

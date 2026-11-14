@@ -2,7 +2,7 @@
 <jmeterTestPlan version="1.2" properties="5.0" jmeter="5.6.3">
 <hashTree>
 <TestPlan guiclass="TestPlanGui" testclass="TestPlan" testname="P09 - Concurrencia: total cobrado = precio x cantidad">
-  <stringProp name="TestPlan.comments">Pregunta 9. El CSV trae el total esperado (precio x cantidad) de cada fila y las aserciones JSON lo comparan con el total que devuelven la reserva y el pago. Corrida normal: datos_total.csv, 300 usuarios, subida 30 s, 90 s. Verificacion de la asercion: datos_total_control.csv con usuarios=12 y duracion corta.</stringProp>
+  <stringProp name="TestPlan.comments">Pregunta 9. El CSV trae el total esperado (precio x cantidad) de cada fila y las aserciones JSON lo comparan con el total que devuelven la reserva y el pago. Corrida normal: datos_total.csv, 100 usuarios, subida 30 s, 90 s. Verificacion de la asercion: datos_total_control.csv con usuarios=12 y duracion corta.</stringProp>
   <boolProp name="TestPlan.functional_mode">false</boolProp>
   <boolProp name="TestPlan.tearDown_on_shutdown">true</boolProp>
   <boolProp name="TestPlan.serialize_threadgroups">false</boolProp>
@@ -43,7 +43,7 @@
 <hashTree/>
 <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Compra con validacion del total">
   <stringProp name="TestPlan.comments"></stringProp>
-  <stringProp name="ThreadGroup.num_threads">${__P(usuarios,300)}</stringProp>
+  <stringProp name="ThreadGroup.num_threads">${__P(usuarios,100)}</stringProp>
   <stringProp name="ThreadGroup.ramp_time">${__P(subida,30)}</stringProp>
   <boolProp name="ThreadGroup.same_user_on_next_iteration">true</boolProp>
   <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>

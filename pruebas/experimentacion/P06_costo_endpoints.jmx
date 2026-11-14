@@ -2,7 +2,7 @@
 <jmeterTestPlan version="1.2" properties="5.0" jmeter="5.6.3">
 <hashTree>
 <TestPlan guiclass="TestPlanGui" testclass="TestPlan" testname="P06 - Estres: costo de /api/tarifas vs /api/seleccion">
-  <stringProp name="TestPlan.comments">Pregunta 6. Variable que cambia: el endpoint. Corrida A: hilos_lectura=200, hilos_escritura=0. Corrida B: hilos_lectura=0, hilos_escritura=200. Fijo: 200 usuarios, subida 20 s, duracion 90 s, temporizador 500-1500 ms.</stringProp>
+  <stringProp name="TestPlan.comments">Pregunta 6. Variable que cambia: el endpoint. Corrida A: hilos_lectura=100, hilos_escritura=0. Corrida B: hilos_lectura=0, hilos_escritura=100. Fijo: 100 usuarios, subida 20 s, duracion 90 s, temporizador 500-1500 ms.</stringProp>
   <boolProp name="TestPlan.functional_mode">false</boolProp>
   <boolProp name="TestPlan.tearDown_on_shutdown">true</boolProp>
   <boolProp name="TestPlan.serialize_threadgroups">false</boolProp>
@@ -43,7 +43,7 @@
 <hashTree/>
 <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="A - Solo lectura (GET /api/tarifas)">
   <stringProp name="TestPlan.comments"></stringProp>
-  <stringProp name="ThreadGroup.num_threads">${__P(hilos_lectura,200)}</stringProp>
+  <stringProp name="ThreadGroup.num_threads">${__P(hilos_lectura,100)}</stringProp>
   <stringProp name="ThreadGroup.ramp_time">20</stringProp>
   <boolProp name="ThreadGroup.same_user_on_next_iteration">true</boolProp>
   <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>

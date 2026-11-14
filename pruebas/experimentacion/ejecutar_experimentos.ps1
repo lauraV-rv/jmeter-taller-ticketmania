@@ -25,15 +25,16 @@ $todas = @(
     @{ id = "p01_500u";       plan = "P01_carga_usuarios.jmx";              props = @{ usuarios = 500 };                                       gran = 1000 }
     @{ id = "p02_subida1";    plan = "P02_rampup.jmx";                      props = @{ subida = 1 };                                           gran = 1000 }
     @{ id = "p02_subida60";   plan = "P02_rampup.jmx";                      props = @{ subida = 60 };                                          gran = 1000 }
-    @{ id = "p03_con_timer";  plan = "P03_temporizadores.jmx";              props = @{ hilos_con = 50; hilos_sin = 0 };                        gran = 1000 }
-    @{ id = "p03_sin_timer";  plan = "P03_temporizadores.jmx";              props = @{ hilos_con = 0;  hilos_sin = 50 };                       gran = 1000 }
+    @{ id = "p03_con_timer";  plan = "P03_temporizadores.jmx";              props = @{ hilos_con = 20; hilos_sin = 0 };                        gran = 1000 }
+    @{ id = "p03_sin_timer";  plan = "P03_temporizadores.jmx";              props = @{ hilos_con = 0;  hilos_sin = 20 };                       gran = 1000 }
+    @{ id = "p03_sin_timer_2"; plan = "P03_temporizadores.jmx";              props = @{ hilos_con = 0;  hilos_sin = 20 };                       gran = 1000 }
     @{ id = "p04_escalones";  plan = "P04_estres_escalones.jmx";            props = @{};                                                       gran = 1000 }
     @{ id = "p05_1min";       plan = "P05_duracion.jmx";                    props = @{ duracion = 60 };                                        gran = 1000 }
     @{ id = "p05_10min";      plan = "P05_duracion.jmx";                    props = @{ duracion = 600 };                                       gran = 10000 }
-    @{ id = "p06_lectura_1";  plan = "P06_costo_endpoints.jmx";             props = @{ hilos_lectura = 200; hilos_escritura = 0 };             gran = 1000 }
-    @{ id = "p06_escritura_1";plan = "P06_costo_endpoints.jmx";             props = @{ hilos_lectura = 0;   hilos_escritura = 200 };           gran = 1000 }
-    @{ id = "p06_lectura_2";  plan = "P06_costo_endpoints.jmx";             props = @{ hilos_lectura = 200; hilos_escritura = 0 };             gran = 1000 }
-    @{ id = "p06_escritura_2";plan = "P06_costo_endpoints.jmx";             props = @{ hilos_lectura = 0;   hilos_escritura = 200 };           gran = 1000 }
+    @{ id = "p06_lectura_1";  plan = "P06_costo_endpoints.jmx";             props = @{ hilos_lectura = 100; hilos_escritura = 0 };             gran = 1000 }
+    @{ id = "p06_escritura_1";plan = "P06_costo_endpoints.jmx";             props = @{ hilos_lectura = 0;   hilos_escritura = 100 };           gran = 1000 }
+    @{ id = "p06_lectura_2";  plan = "P06_costo_endpoints.jmx";             props = @{ hilos_lectura = 100; hilos_escritura = 0 };             gran = 1000 }
+    @{ id = "p06_escritura_2";plan = "P06_costo_endpoints.jmx";             props = @{ hilos_lectura = 0;   hilos_escritura = 100 };           gran = 1000 }
     @{ id = "p07_rep1";       plan = "P07_concurrencia_reservas.jmx";       props = @{};                                                       gran = 1000 }
     @{ id = "p07_rep2";       plan = "P07_concurrencia_reservas.jmx";       props = @{};                                                       gran = 1000 }
     @{ id = "p07_rep3";       plan = "P07_concurrencia_reservas.jmx";       props = @{};                                                       gran = 1000 }
@@ -58,6 +59,20 @@ function Iniciar-Api {
     throw "La API no respondio en /api/salud"
 }
 
+function Esperar-Puertos {
+    # La API cierra la conexion despues de cada respuesta (HTTP/1.0) y Windows deja cada puerto
+    # en TIME_WAIT unos 120 s. Antes de cada corrida se espera a que se liberen, para que una
+    # corrida no herede los puertos ocupados por la anterior (Windows tiene 16384 puertos dinamicos).
+    $n = 0
+    for ($i = 0; $i -lt 40; $i++) {
+        $n = @(Get-NetTCPConnection -State TimeWait -ErrorAction SilentlyContinue |
+               Where-Object { $_.LocalPort -eq 8080 -or $_.RemotePort -eq 8080 }).Count
+        if ($n -lt 8000) { return $n }
+        Start-Sleep -Seconds 5
+    }
+    return $n
+}
+
 Set-Location $aqui
 New-Item -ItemType Directory -Force (Join-Path $aqui "resultados") | Out-Null
 
@@ -66,6 +81,7 @@ foreach ($c in $todas) {
     if (Test-Path $salida) { Remove-Item -Recurse -Force $salida }
     New-Item -ItemType Directory -Force $salida | Out-Null
 
+    $tw = Esperar-Puertos
     $proc = Iniciar-Api
     $jargs = @("-n", "-t", $c.plan,
               "-l", "$salida\resultados.jtl",
@@ -78,7 +94,7 @@ foreach ($c in $todas) {
     foreach ($k in $c.props.Keys) { $jargs += "-J$k=$($c.props[$k])" }
 
     $inicio = Get-Date
-    Write-Host "== $($c.id): $($c.plan) $($c.props | ConvertTo-Json -Compress) (API pid $($proc.Id))"
+    Write-Host "== $($c.id): $($c.plan) $($c.props | ConvertTo-Json -Compress) (API pid $($proc.Id), TIME_WAIT previos: $tw)"
     & $JMeterBin @jargs | Out-File -Encoding utf8 "$salida\consola.txt"
     $fin = Get-Date
 

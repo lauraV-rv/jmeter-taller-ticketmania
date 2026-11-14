@@ -2,7 +2,7 @@
 <jmeterTestPlan version="1.2" properties="5.0" jmeter="5.6.3">
 <hashTree>
 <TestPlan guiclass="TestPlanGui" testclass="TestPlan" testname="P03 - Carga: con y sin temporizadores">
-  <stringProp name="TestPlan.comments">Pregunta 3. Variable que cambia: el temporizador. Corrida A: hilos_con=50, hilos_sin=0. Corrida B: hilos_con=0, hilos_sin=50. Fijo: 50 usuarios, subida 10 s, duracion 60 s.</stringProp>
+  <stringProp name="TestPlan.comments">Pregunta 3. Variable que cambia: el temporizador. Corrida A: hilos_con=20, hilos_sin=0. Corrida B: hilos_con=0, hilos_sin=20. Fijo: 20 usuarios, subida 1 s, contador del bucle 50 (cada usuario hace 50 compras, 150 peticiones).</stringProp>
   <boolProp name="TestPlan.functional_mode">false</boolProp>
   <boolProp name="TestPlan.tearDown_on_shutdown">true</boolProp>
   <boolProp name="TestPlan.serialize_threadgroups">false</boolProp>
@@ -43,17 +43,14 @@
 <hashTree/>
 <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="A - Con temporizador">
   <stringProp name="TestPlan.comments"></stringProp>
-  <stringProp name="ThreadGroup.num_threads">${__P(hilos_con,50)}</stringProp>
-  <stringProp name="ThreadGroup.ramp_time">10</stringProp>
+  <stringProp name="ThreadGroup.num_threads">${__P(hilos_con,20)}</stringProp>
+  <stringProp name="ThreadGroup.ramp_time">1</stringProp>
   <boolProp name="ThreadGroup.same_user_on_next_iteration">true</boolProp>
   <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
   <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" testname="Controlador Bucle">
+    <stringProp name="LoopController.loops">50</stringProp>
     <boolProp name="LoopController.continue_forever">false</boolProp>
-    <intProp name="LoopController.loops">-1</intProp>
   </elementProp>
-  <boolProp name="ThreadGroup.scheduler">true</boolProp>
-  <stringProp name="ThreadGroup.duration">60</stringProp>
-  <stringProp name="ThreadGroup.delay">0</stringProp>
 </ThreadGroup>
 <hashTree>
 <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Tarifas">
@@ -164,16 +161,13 @@
 <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="B - Sin temporizador">
   <stringProp name="TestPlan.comments"></stringProp>
   <stringProp name="ThreadGroup.num_threads">${__P(hilos_sin,0)}</stringProp>
-  <stringProp name="ThreadGroup.ramp_time">10</stringProp>
+  <stringProp name="ThreadGroup.ramp_time">1</stringProp>
   <boolProp name="ThreadGroup.same_user_on_next_iteration">true</boolProp>
   <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
   <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" testname="Controlador Bucle">
+    <stringProp name="LoopController.loops">50</stringProp>
     <boolProp name="LoopController.continue_forever">false</boolProp>
-    <intProp name="LoopController.loops">-1</intProp>
   </elementProp>
-  <boolProp name="ThreadGroup.scheduler">true</boolProp>
-  <stringProp name="ThreadGroup.duration">60</stringProp>
-  <stringProp name="ThreadGroup.delay">0</stringProp>
 </ThreadGroup>
 <hashTree>
 <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Tarifas">

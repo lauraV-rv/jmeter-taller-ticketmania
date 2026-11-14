@@ -1,0 +1,19 @@
+﻿WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Creating summariser <summary>
+Created the tree successfully using P02_rampup.jmx
+Starting standalone test @ 2026 Nov 13 19:33:59 COT (1794616439354)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +      1 in 00:00:01 =    0.8/s Avg:    39 Min:    39 Max:    39 Err:     0 (0.00%) Active: 2 Started: 2 Finished: 0
+summary +    761 in 00:00:29 =   26.0/s Avg:     2 Min:     1 Max:     6 Err:     0 (0.00%) Active: 51 Started: 51 Finished: 0
+summary =    762 in 00:00:30 =   25.0/s Avg:     2 Min:     1 Max:    39 Err:     0 (0.00%)
+summary +   2261 in 00:00:30 =   75.4/s Avg:     2 Min:     1 Max:    38 Err:     0 (0.00%) Active: 100 Started: 100 Finished: 0
+summary =   3023 in 00:01:00 =   50.0/s Avg:     2 Min:     1 Max:    39 Err:     0 (0.00%)
+summary +   2973 in 00:00:30 =   99.1/s Avg:     1 Min:     1 Max:    12 Err:     0 (0.00%) Active: 100 Started: 100 Finished: 0
+summary =   5996 in 00:01:30 =   66.3/s Avg:     2 Min:     1 Max:    39 Err:     0 (0.00%)
+summary +   2928 in 00:00:30 =   99.0/s Avg:     1 Min:     0 Max:     5 Err:     0 (0.00%) Active: 0 Started: 100 Finished: 100
+summary =   8924 in 00:02:00 =   74.3/s Avg:     2 Min:     0 Max:    39 Err:     0 (0.00%)
+Tidying up ...    @ 2026 Nov 13 19:35:59 COT (1794616559581)
+... end of run

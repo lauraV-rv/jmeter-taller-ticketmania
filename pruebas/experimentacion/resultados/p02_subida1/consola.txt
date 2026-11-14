@@ -1,0 +1,21 @@
+﻿WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Creating summariser <summary>
+Created the tree successfully using P02_rampup.jmx
+Starting standalone test @ 2026 Nov 13 19:29:31 COT (1794616171476)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +      1 in 00:00:01 =    1.1/s Avg:    16 Min:    16 Max:    16 Err:     0 (0.00%) Active: 78 Started: 78 Finished: 0
+summary +   2738 in 00:00:27 =   99.9/s Avg:     1 Min:     0 Max:    29 Err:     0 (0.00%) Active: 100 Started: 100 Finished: 0
+summary =   2739 in 00:00:28 =   96.7/s Avg:     1 Min:     0 Max:    29 Err:     0 (0.00%)
+summary +   2968 in 00:00:30 =   98.9/s Avg:     1 Min:     0 Max:     5 Err:     0 (0.00%) Active: 100 Started: 100 Finished: 0
+summary =   5707 in 00:00:58 =   97.8/s Avg:     1 Min:     0 Max:    29 Err:     0 (0.00%)
+summary +   3008 in 00:00:30 =  100.3/s Avg:     1 Min:     0 Max:     3 Err:     0 (0.00%) Active: 100 Started: 100 Finished: 0
+summary =   8715 in 00:01:28 =   98.7/s Avg:     1 Min:     0 Max:    29 Err:     0 (0.00%)
+summary +   2997 in 00:00:30 =   99.9/s Avg:     1 Min:     0 Max:     5 Err:     0 (0.00%) Active: 100 Started: 100 Finished: 0
+summary =  11712 in 00:01:58 =   99.0/s Avg:     1 Min:     0 Max:    29 Err:     0 (0.00%)
+summary +    174 in 00:00:02 =  100.0/s Avg:     1 Min:     1 Max:     3 Err:     0 (0.00%) Active: 0 Started: 100 Finished: 100
+summary =  11886 in 00:02:00 =   99.0/s Avg:     1 Min:     0 Max:    29 Err:     0 (0.00%)
+Tidying up ...    @ 2026 Nov 13 19:31:31 COT (1794616291749)
+... end of run

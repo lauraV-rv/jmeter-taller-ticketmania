@@ -1,0 +1,2385 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect,"num_reserva"
+1794617205263,69670,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617205263,0,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617205263,17769,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617205263,22863872000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617206264,69063,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617206264,1598,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617206264,20578,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617206264,22863872000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617207276,69092,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617207276,4644,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617207276,13603,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617207276,22880256000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617208276,68993,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617208276,10900,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617208276,8970,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617208276,22880256000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617209288,68988,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617209288,0,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617209288,3836,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617209288,22896640000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617210289,69323,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617210289,3096,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617210289,18828,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617210289,22896640000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617211290,69374,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617211290,6293,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617211290,20280,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617211290,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617212290,69577,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617212290,6200,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617212290,13735,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617212290,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617213304,69486,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617213304,10749,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617213304,6619,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617213304,22929408000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617214304,69503,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617214304,7900,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617214304,4414,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617214304,22929408000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617215316,69522,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617215316,12351,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617215316,4749,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617215316,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617216317,69561,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617216317,15568,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617216317,4538,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617216317,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617217322,69519,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617217322,15537,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617217322,7270,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617217322,22941696000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617218322,69561,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617218322,15700,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617218322,6506,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617218322,22941696000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617219334,69297,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617219334,1581,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617219334,7687,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617219334,22945792000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617220335,69305,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617220335,4595,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617220335,10087,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617220335,22945792000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617221344,69905,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617221344,10967,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617221344,28643,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617221344,22945792000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617222345,70098,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617222345,9290,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617222345,19946,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617222345,22945792000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617223352,70254,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617223352,13932,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617223352,30610,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617223352,22945792000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617224352,70501,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617224352,7700,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617224352,11988,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617224352,22945792000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617225367,70625,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617225367,11000,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617225367,12763,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617225367,22945792000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617226368,70673,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617226368,3096,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617226368,8647,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617226368,22945792000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617227368,70606,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617227368,7784,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617227368,8202,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617227368,22945792000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617228370,70608,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617228370,9390,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617228370,7181,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617228370,22945792000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617229373,71001,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617229373,10714,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617229373,11205,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617229373,22945792000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617230373,70991,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617230373,12600,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617230373,7609,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617230373,22945792000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617231385,70976,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617231385,7601,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617231385,5280,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617231385,22958080000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617232385,70946,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617232385,3196,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617232385,3119,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617232385,22958080000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617233393,70874,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617233393,7745,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617233393,4430,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617233393,22999040000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617234394,70882,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617234394,7792,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617234394,4479,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617234394,22999040000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617235408,70048,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617235408,15483,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617235408,10477,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617235408,22999040000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617236408,70028,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617236408,1600,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617236408,2237,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617236408,22999040000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617237422,70099,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617237422,13806,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617237422,6039,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617237422,23003136000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617238422,70010,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617238422,9400,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617238422,5639,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617238422,23003136000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617239429,70015,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617239429,3078,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617239429,4728,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617239429,23007232000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617240430,70188,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617240430,4695,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617240430,13576,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617240430,23007232000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617241445,70092,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617241445,15369,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617241445,11153,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617241445,23007232000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617242445,70162,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617242445,9400,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617242445,7643,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617242445,23007232000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617243448,70282,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617243448,1596,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617243448,7912,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617243448,23007232000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617244448,70216,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617244448,3000,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617244448,5351,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617244448,23007232000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617245453,70183,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617245453,7860,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617245453,6965,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617245453,23007232000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617246454,70226,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617246454,15584,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617246454,8288,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617246454,23007232000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617247459,70266,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617247459,7845,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617247459,6183,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617247459,23007232000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617248460,70273,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617248460,12400,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617248460,5096,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617248460,23007232000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617249469,70392,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617249469,7738,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617249469,4309,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617249469,23007232000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617250470,70369,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617250470,9390,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617250470,12026,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617250470,23007232000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617251484,70438,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617251484,6108,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617251484,4465,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617251484,23007232000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617252484,70410,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617252484,7800,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617252484,7288,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617252484,23007232000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617253488,70418,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617253488,7761,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617253488,4227,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617253488,23007232000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617254488,70614,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617254488,12587,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617254488,28353,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617254488,23007232000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617255500,70648,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617255500,15445,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617255500,4200,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617255500,23007232000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617256500,70643,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617256500,7800,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617256500,4350,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617256500,23007232000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617257505,70657,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617257505,7761,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617257505,3388,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617257505,23007232000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617258505,70631,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617258505,4700,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617258505,3513,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617258505,23007232000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617259516,70715,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617259516,7722,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617259516,4137,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617259516,23007232000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617260516,70724,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617260516,4700,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617260516,5409,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617260516,23007232000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617261524,70799,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617261524,4658,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617261524,5122,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617261524,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617262524,70920,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617262524,4700,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617262524,5673,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617262524,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617263537,70946,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617263538,12351,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617263538,7418,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617263538,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617264539,71043,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617264539,10889,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617264539,9415,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617264539,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617265552,71047,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617265552,10837,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617265552,11173,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617265552,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617266553,71063,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617266553,9290,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617266553,7092,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617266553,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617267554,71116,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617267554,7800,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617267554,5001,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617267554,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617268554,71056,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617268554,9500,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617268554,8155,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617268554,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617269567,71120,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617269567,6114,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617269567,5167,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617269567,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617270568,71332,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617270568,10889,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617270568,15333,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617270568,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617271579,71149,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617271579,9297,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617271579,5288,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617271579,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617272580,71245,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617272580,6293,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617272580,9254,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617272580,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617273594,71458,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617273594,4540,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617273594,21265,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617273594,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617274595,71743,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617274595,17282,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617274595,31903,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617274595,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617275595,71702,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617275595,6193,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617275595,16724,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617275595,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617276596,71701,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617276596,7692,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617276596,9971,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617276596,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617277609,71746,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617277609,9288,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617277609,20872,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617277609,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617278610,71671,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617278610,9390,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617278610,10555,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617278610,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617279615,71682,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617279615,6268,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617279615,10947,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617279615,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617280616,71755,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617280616,9290,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617280616,9388,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617280616,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617281624,71762,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617281624,4757,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617281624,16848,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617281624,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617282624,71755,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617282624,4595,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617282624,8875,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617282624,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617283634,71793,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617283634,4662,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617283634,7251,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617283634,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617284635,71955,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617284635,6293,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617284635,6364,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617284635,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617285643,71999,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617285643,10813,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617285643,5906,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617285643,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617286643,72000,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617286643,1500,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617286643,3878,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617286643,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617287654,72065,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617287654,10891,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617287654,7637,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617287654,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617288654,72050,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617288654,14085,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617288654,7260,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617288654,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617289663,72151,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617289663,9207,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617289663,6204,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617289663,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617290663,72329,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617290663,9390,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617290663,7297,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617290663,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617291669,72392,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617291669,6268,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617291669,7970,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617291669,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617292670,73239,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617292670,9290,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617292670,18822,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617292670,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617293683,73711,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617293683,12351,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617293683,14836,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617293683,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617294684,73563,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617294684,9390,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617294684,18934,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617294684,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617295685,72800,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617295685,3190,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617295685,16432,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617295685,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617296686,73469,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617296686,18700,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617296686,15403,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617296686,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617297696,73394,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617297696,4554,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617297696,7048,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617297696,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617298696,73363,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617298696,4800,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617298696,5170,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617298696,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617299708,73372,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617299708,3063,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617299708,2890,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617299708,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617300708,73358,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617300708,14099,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617300708,4927,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617300708,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617301724,73460,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617301724,9162,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617301724,5000,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617301724,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617302725,73436,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617302725,6300,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617302725,3734,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617302725,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617303732,73459,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617303732,9316,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617303732,5351,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617303732,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617304732,73487,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617304732,4700,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617304732,3973,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617304732,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617305738,73512,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617305738,4577,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617305738,7286,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617305738,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617306739,73551,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617306739,7792,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617306739,6992,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617306739,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617307745,73634,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617307745,9334,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617307745,5717,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617307745,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617308746,73664,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617308746,4695,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617308746,4866,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617308746,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617309753,73686,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617309753,3078,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617309753,5181,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617309753,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617310754,73737,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617310754,7792,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617310754,5230,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617310754,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617311766,73772,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617311766,6138,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617311766,16896,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617311766,22945792000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617312766,73914,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617312766,6300,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617312766,12505,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617312766,22945792000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617313767,73964,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617313767,7900,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617313767,10231,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617313767,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617314768,74027,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617314768,17182,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617314768,7097,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617314768,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617315775,74076,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617315775,13875,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617315775,5218,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617315775,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617316775,74125,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617316775,3200,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617316775,5413,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617316775,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617317789,74181,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617317789,10749,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617317789,6315,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617317789,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617318789,74242,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617318789,9300,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617318789,6250,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617318789,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617319796,74275,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617319796,6156,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617319796,4789,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617319796,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617320796,74315,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617320796,3200,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617320796,9385,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617320796,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617321808,74344,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617321808,4639,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617321808,3169,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617321808,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617322808,73623,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617322808,4700,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617322808,5453,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617322808,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617323817,73569,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617323817,3072,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617323817,3756,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617323817,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617324818,73592,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617324818,3096,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617324818,5492,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617324818,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617325823,73417,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617325823,6274,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617325823,5514,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617325823,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617326824,73445,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617326824,6200,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617326824,5179,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617326824,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617327833,73469,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617327833,3165,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617327833,2633,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617327833,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617328834,73383,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617328834,6193,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617328834,7101,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617328834,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617329844,73454,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617329844,7722,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617329844,8316,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617329844,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617330844,73679,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617330844,6200,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617330844,13011,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617330844,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617331856,73741,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617331856,7798,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617331856,5795,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617331856,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617332857,73775,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617332857,10989,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617332857,5050,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617332857,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617333867,73807,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617333867,7722,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617333867,5122,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617333867,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617334868,73846,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617334868,7792,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617334868,5097,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617334868,22937600000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617335878,74077,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617335878,4568,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617335878,16209,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617335878,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617336879,74036,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617336879,9390,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617336879,20547,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617336879,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617337879,74062,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617337879,3196,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617337879,5099,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617337879,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617338880,74072,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617338880,12400,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617338880,7940,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617338880,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617339883,74095,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617339883,7860,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617339883,6220,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617339883,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617340884,74184,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617340884,9300,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617340884,5457,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617340884,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617341899,74297,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617341899,7790,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617341899,10357,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617341899,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617342899,74630,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617342899,9390,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617342899,17727,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617342899,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617343913,74866,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617343913,12228,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617343913,15548,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617343913,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617344914,75076,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617344914,9390,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617344914,8766,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617344914,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617345925,75067,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617345925,7715,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617345925,2973,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617345925,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617346925,75075,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617346925,7900,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617346925,4469,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617346925,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617347940,75280,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617347940,12338,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617347940,20816,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617347940,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617348941,75753,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617348941,9390,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617348941,24065,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617348941,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617349942,75571,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617349942,6293,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617349942,11022,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617349942,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617350942,76079,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617350942,7800,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617350942,18154,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617350942,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617351942,76064,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617351942,9217,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617351942,3647,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617351942,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617352943,75880,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617352943,10889,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617352943,6419,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617352943,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617353950,75874,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617353950,6250,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617353950,7397,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617353950,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617354951,75787,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617354951,9390,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617354951,8103,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617354951,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617355963,75779,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617355963,1579,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617355963,7292,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617355963,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617356964,75739,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617356964,3096,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617356964,11425,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617356964,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617357971,75721,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617357971,7745,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617357971,8775,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617357971,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617358972,76550,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617358972,7768,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617358972,27682,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617358972,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617359972,75908,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617359972,3112,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617359972,8156,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617359972,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617360972,75910,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617360972,6200,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617360972,9511,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617360972,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617361973,75910,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617361973,4685,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617361973,4349,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617361973,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617362974,75907,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617362974,4795,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617362974,4999,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617362974,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617363985,75831,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617363985,10792,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617363985,8278,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617363985,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617364986,75833,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617364986,7800,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617364986,4442,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617364986,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617365997,75797,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617365997,12363,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617365997,3905,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617365997,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617366997,75758,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617366997,4700,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617366997,5674,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617366997,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617367998,75746,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617367998,0,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617367998,4717,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617367998,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617368998,75785,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617368998,9400,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617368998,3504,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617368998,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617370002,75687,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617370002,6163,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617370002,2696,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617370002,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617371003,75770,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617371003,10889,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617371003,8947,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617371003,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617372010,75772,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617372010,4761,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617372010,5283,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617372010,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617373010,75771,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617373010,9300,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617373010,4793,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617373010,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617374027,75541,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617374027,6108,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617374027,7482,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617374027,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617375028,75544,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617375028,3196,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617375028,8474,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617375028,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617376029,75540,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617376029,9281,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617376029,4867,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617376029,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617377029,75550,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617377029,7800,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617377029,2633,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617377029,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617378029,74716,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617378029,4795,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617378029,6050,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617378029,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617379029,74617,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617379029,6200,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617379029,6261,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617379029,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617380041,73479,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617380041,9297,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617380041,4697,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617380041,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617381042,73473,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617381042,0,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617381042,4689,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617381042,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617382043,73476,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617382043,17200,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617382043,8141,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617382043,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617383043,73472,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617383043,4600,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617383043,6336,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617383043,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617384056,73465,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617384056,7699,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617384056,9219,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617384056,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617385056,73476,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617385056,11100,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617385056,5691,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617385056,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617386066,73167,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617386066,4549,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617386066,5928,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617386066,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617387066,73168,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617387066,14085,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617387066,10235,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617387066,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617388072,73155,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617388072,7761,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617388072,4842,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617388072,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617389073,73288,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617389073,4695,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617389073,17282,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617389073,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617390082,73268,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617390082,9207,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617390082,6963,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617390082,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617391083,73338,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617391083,12487,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617391083,7125,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617391083,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617392098,73338,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617392098,3152,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617392098,5644,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617392098,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617393099,73337,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617393099,6193,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617393099,3532,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617393099,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617394111,73393,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617394111,6231,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617394111,5744,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617394111,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617395112,73388,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617395112,6193,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617395112,5907,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617395112,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617396117,73396,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617396117,15522,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617396117,6565,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617396117,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617397118,73502,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617397118,9390,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617397118,12559,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617397118,22908928000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617398124,73502,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617398124,3180,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617398124,3625,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617398124,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617399124,73469,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617399124,3000,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617399124,6541,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617399124,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617400124,73499,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617400124,4800,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617400124,6185,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617400124,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617401125,73478,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617401125,10889,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617401125,3992,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617401125,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617402126,73474,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617402126,4595,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617402126,5084,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617402126,22933504000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617403127,73481,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617403127,12587,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617403127,6312,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617403127,22933504000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617404137,73514,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617404137,7722,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617404137,6066,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617404137,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617405138,73533,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617405138,7792,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617405138,4494,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617405138,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617406145,73546,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617406145,4662,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617406145,5399,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617406145,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617407145,73542,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617407145,7800,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617407145,5608,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617407145,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617408156,73536,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617408156,3069,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617408156,4460,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617408156,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617409157,73539,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617409157,4695,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617409157,4769,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617409157,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617410167,73521,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617410167,4653,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617410167,9076,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617410167,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617411168,73554,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617411168,6300,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617411168,6813,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617411168,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617412175,73553,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617412175,4563,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617412175,6072,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617412175,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617413175,73634,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617413175,7900,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617413175,14640,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617413175,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617414177,73644,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617414177,9300,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617414177,15210,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617414177,22933504000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617415178,73710,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617415178,7900,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617415178,12095,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617415178,22933504000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617416188,73840,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617416188,13833,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617416188,24687,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617416188,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617417189,73892,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617417189,14085,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617417189,13192,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617417189,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617418200,73886,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617418200,4540,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617418200,6025,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617418200,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617419201,73875,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617419201,7792,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617419201,5106,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617419201,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617420213,73698,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617420213,6237,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617420213,14084,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617420213,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617421213,73523,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617421213,10900,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617421213,24298,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617421213,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617422226,73553,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617422226,9270,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617422226,6526,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617422226,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617423226,73591,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617423226,6300,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617423226,5463,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617423226,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617424236,73631,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617424236,12388,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617424236,14263,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617424236,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617425237,73614,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617425237,6293,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617425237,10147,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617425237,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617426250,73707,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617426250,12228,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617426250,14905,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617426250,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617427251,73878,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617427251,6300,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617427251,12158,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617427251,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617428253,73991,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617428253,3093,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617428253,13963,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617428253,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617429254,74125,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617429254,4695,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617429254,12277,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617429254,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617430261,74291,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617430261,9235,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617430261,13568,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617430261,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617431261,74211,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617431261,3200,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617431261,17688,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617431261,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617432289,73837,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617432289,10749,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617432289,11282,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617432289,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617433290,73712,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617433290,7745,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617433290,5729,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617433290,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617434290,73612,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617434290,6293,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617434290,9914,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617434290,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617435291,73425,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617435291,1498,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617435291,8369,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617435291,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617436292,73295,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617436292,3081,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617436292,6419,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617436292,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617437293,73163,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617437293,4700,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617437293,4785,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617437293,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617438305,73204,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617438305,13891,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617438305,7772,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617438305,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617439305,73118,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617439305,1500,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617439305,6441,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617439305,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617440306,73105,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617440306,3196,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617440306,11498,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617440306,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617441306,73114,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617441306,7800,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617441306,15943,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617441306,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617442313,73160,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617442313,6256,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617442313,11226,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617442313,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617443313,73106,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617443313,7700,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617443313,15175,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617443313,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617444314,72986,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617444314,14185,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617444314,16256,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617444314,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617445315,72862,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617445315,7792,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617445315,13691,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617445315,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617446329,72864,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617446329,6108,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617446329,16468,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617446329,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617447330,72769,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617447330,4695,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617447330,13692,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617447330,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617448345,72654,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617448345,9270,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617448345,14842,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617448345,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617449345,72614,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617449345,6200,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617449345,10347,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617449345,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617450359,72751,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617450359,9279,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617450359,16728,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617450359,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617451360,72501,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617451360,10889,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617451360,17779,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617451360,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617452374,72521,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617452374,4729,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617452374,10465,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617452374,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617453374,72409,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617453374,3000,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617453374,10524,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617453374,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617454382,72406,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617454383,6243,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617454383,9539,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617454383,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617455383,72336,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617455383,1500,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617455383,13702,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617455383,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617456388,72301,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617456388,10934,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617456388,15877,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617456388,22933504000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617457389,72295,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617457389,12487,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617457389,8381,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617457389,22933504000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617458404,72337,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617458404,3054,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617458404,7165,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617458404,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617459405,72354,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617459405,6193,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617459405,9277,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617459405,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617460422,72408,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617460422,3155,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617460422,8168,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617460422,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617461422,72376,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617461422,12500,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617461422,8686,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617461422,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617462426,72395,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617462426,4671,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617462426,10538,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617462426,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617463426,72441,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617463426,3100,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617463426,11375,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617463426,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617464427,72442,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617464427,9400,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617464427,10275,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617464427,22933504000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617465428,72461,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617465428,14000,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617465428,13035,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617465428,22933504000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617466428,72113,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617466428,7900,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617466428,10259,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617466428,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617467429,72097,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617467429,7692,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617467429,12800,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617467429,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617468429,72085,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617468429,4795,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617468429,9843,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617468429,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617469430,72065,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617469430,4595,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617469430,12611,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617469430,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617470441,71682,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617470441,4648,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617470441,15645,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617470441,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617471442,71570,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617471442,7792,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617471442,22710,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617471442,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617472442,71716,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617472442,7900,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617472442,17051,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617472442,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617473442,71824,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617473442,10900,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617473442,19707,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617473442,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617474450,72409,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617474450,6237,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617474450,20776,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617474450,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617475451,71790,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617475451,2997,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617475451,27857,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617475451,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617476465,71841,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617476465,4635,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617476465,22928,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617476465,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617477466,71854,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617477466,15600,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617477466,14880,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617477466,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617478466,71886,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617478466,11000,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617478466,14473,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617478466,22933504000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617479466,71817,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617479466,18800,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617479466,15823,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617479466,22933504000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617480479,71960,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617480479,7699,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617480479,20306,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617480479,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617481480,72137,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617481480,10889,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617481480,23941,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617481480,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617482483,71892,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617482483,9371,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617482483,16384,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617482483,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617483484,72002,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617483484,6300,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617483484,13899,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617483484,22913024000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617484490,72362,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617484490,9343,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617484490,15413,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617484490,22917120000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617485490,72448,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617485490,4600,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617485490,27073,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617485490,22917120000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617486493,71604,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617486493,3081,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617486493,23207,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617486493,22917120000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617487494,71523,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617487494,6293,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617487494,15539,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617487494,22917120000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617488505,71891,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617488505,9316,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617488505,31724,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617488505,22917120000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617489506,71982,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617489506,9290,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617489506,25574,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617489506,22917120000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617490507,72174,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617490507,7892,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617490507,23324,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617490507,22917120000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617491508,72060,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617491508,12487,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617491508,24927,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617491508,22917120000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617492510,72097,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617492510,15568,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617492510,15229,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617492510,22917120000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617493512,72116,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617493512,6144,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617493512,13265,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617493512,22917120000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617494515,72238,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617494515,9466,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617494515,28699,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617494515,22917120000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617495518,71674,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617495518,1579,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617495518,29702,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617495518,22917120000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617496538,71846,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617496538,7601,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617496538,29907,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617496538,22917120000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617497539,72067,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617497539,17282,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617497539,29581,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617497539,22917120000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617498545,71885,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617498545,3078,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617498545,21230,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617498545,22917120000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617499545,71711,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617499545,6300,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617499545,20247,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617499545,22917120000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617500553,71823,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617500553,12326,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617500553,18095,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617500553,22917120000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617501554,71803,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617501554,3196,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617501554,17482,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617501554,22917120000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617502568,71819,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617502568,4635,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617502568,22030,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617502568,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617503568,71765,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617503568,10900,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617503568,26585,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617503568,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617504574,71701,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617504574,15522,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617504574,27415,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617504574,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617505574,71635,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617505574,7900,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617505574,22838,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617505574,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617506584,71748,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617506584,13721,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617506584,27862,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617506584,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617507584,71718,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617507584,4800,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617507584,15804,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617507584,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617508586,71684,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617508586,9290,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617508586,14360,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617508586,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617509586,71728,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617509586,9400,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617509586,13542,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617509586,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617510603,71785,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617510603,7783,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617510603,25753,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617510603,23093248000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617511604,71595,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617511604,6200,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617511604,18824,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617511604,23093248000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617512604,71517,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617512604,4700,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617512604,14029,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617512604,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617513605,71434,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617513605,7792,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617513605,16183,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617513605,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617514615,71329,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617514615,7692,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617514615,26962,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617514615,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617515616,71278,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617515616,12487,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617515616,15446,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617515616,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617516617,71236,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617516617,3100,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617516617,13612,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617516617,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617517618,71276,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617517618,6300,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617517618,12512,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617517618,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617518629,71232,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617518629,10770,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617518629,19691,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617518629,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617519630,71272,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617519630,9390,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617519630,14217,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617519630,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617520639,71308,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617520639,12277,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617520639,14276,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617520639,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617521640,71209,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617521640,6293,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617521640,17314,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617521640,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617522653,71105,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617522653,16962,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617522653,19175,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617522653,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617523653,71093,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617523653,7800,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617523653,17359,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617523653,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617524667,71101,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617524667,4639,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617524667,14532,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617524667,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617525668,71110,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617525668,9390,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617525668,17599,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617525668,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617526669,71104,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617526669,4695,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617526669,15270,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617526669,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617527669,71066,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617527669,9300,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617527669,16326,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617527669,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617528680,71090,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617528680,12376,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617528680,16498,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617528680,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617529681,71061,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617529681,3196,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617529681,17527,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617529681,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617530690,71102,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617530690,13988,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617530690,22262,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617530690,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617531691,71098,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617531691,7792,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617531691,25219,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617531691,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617532693,71134,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617532693,12475,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617532693,23405,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617532693,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617533694,71086,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617533694,13986,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617533694,24499,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617533694,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617534704,71099,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617534704,10869,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617534704,21382,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617534704,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617535706,71095,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617535706,7792,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617535706,23722,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617535706,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617536714,71026,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617536714,9217,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617536714,19727,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617536714,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617537715,70944,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617537715,9390,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617537715,18804,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617537715,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617538724,70836,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617538724,17063,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617538724,22251,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617538724,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617539725,70675,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617539725,9390,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617539725,17247,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617539725,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617540728,70954,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617540728,4681,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617540728,27567,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617540728,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617541729,70624,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617541729,10889,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617541729,19133,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617541729,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617542740,70665,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617542740,9316,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617542740,19458,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617542740,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617543740,70588,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617543740,3100,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617543740,16825,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617543740,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617544746,70564,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617544746,0,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617544746,16742,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617544746,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617545746,70592,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617545746,11000,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617545746,19385,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617545746,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617546755,70575,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617546755,10792,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617546755,25712,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617546755,23072768000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617547755,70703,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617547755,10900,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617547755,15782,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617547755,23072768000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617548764,70564,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617548764,12413,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617548764,19068,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617548764,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617549765,70537,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617549765,7892,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617549765,15477,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617549765,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617550769,70681,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617550769,7761,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617550769,16601,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617550769,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617551769,70707,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617551769,3100,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617551769,16910,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617551769,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617552773,70674,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617552773,6169,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617552773,16056,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617552773,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617553774,70724,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617553774,4695,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617553774,15481,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617553774,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617554781,70718,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617554781,10945,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617554781,16494,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617554781,23068672000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617555782,70714,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617555782,6200,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617555782,15352,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617555782,23068672000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617556792,70798,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617556792,6231,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617556792,15676,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617556792,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617557793,70807,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617557793,12487,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617557793,18141,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617557793,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617558800,70958,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617558800,12400,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617558800,20081,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617558800,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617559800,70991,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617559800,18700,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617559800,22487,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617559800,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617560812,71145,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617560812,7707,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617560812,26131,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617560812,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617561812,70787,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617561812,17182,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617561812,26650,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617561812,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617562826,70862,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617562826,10770,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617562826,40674,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617562826,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617563826,70871,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617563826,17182,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617563826,31664,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617563826,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617564838,71330,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617564838,13946,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617564838,32089,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617564838,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617565839,71521,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617565839,10989,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617565839,31945,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617565839,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617566840,71739,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617566840,9290,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617566840,26033,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617566840,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617567840,71593,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617567840,6293,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617567840,23042,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617567840,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617568854,71716,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617568854,3057,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617568854,19228,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617568854,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617569855,71671,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617569855,3096,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617569855,24624,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617569855,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617570856,71937,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617570856,15584,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617570856,39395,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617570856,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617571856,71696,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617571856,7900,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617571856,29467,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617571856,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617572868,71749,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617572868,9198,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617572868,27644,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617572868,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617573868,71557,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617573868,10989,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617573868,17292,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617573868,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617574869,71546,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617574869,13986,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617574869,20189,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617574869,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617575869,71508,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617575869,10989,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617575869,16761,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617575869,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617576875,71516,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617576875,10845,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617576875,16364,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617576875,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617577876,71558,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617577876,9390,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617577876,16379,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617577876,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617578887,71622,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617578887,9198,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617578887,15706,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617578887,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617579887,71616,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617579887,9400,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617579887,16003,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617579887,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617580897,71677,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617580897,13960,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617580897,16246,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617580897,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617581898,71642,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617581898,15584,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617581898,20702,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617581898,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617582903,71887,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617582903,4676,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617582903,19606,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617582903,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617583905,71990,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617583905,7792,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617583905,19432,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617583905,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617584913,72137,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617584913,4658,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617584913,19171,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617584913,23072768000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617585914,72269,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617585914,3096,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617585914,19720,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617585914,23072768000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617586914,72238,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617586914,6300,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617586914,17942,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617586914,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617587914,72294,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617587914,6293,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617587914,19027,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617587914,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617588918,72367,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617588918,6081,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617588918,19858,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617588918,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617589918,72433,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617589918,1598,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617589918,21426,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617589918,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617590931,72536,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617590931,12351,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617590931,24602,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617590931,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617591932,72562,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617591932,6293,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617591932,21496,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617591932,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617592934,73507,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617592934,14071,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617592934,37906,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617592934,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617593934,74228,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617593934,10900,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617593934,34819,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617593934,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617594947,74630,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617594947,9189,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617594947,36351,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617594947,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617595948,74617,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617595948,7892,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617595948,28192,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617595948,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617596959,75309,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617596959,9288,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617596959,27624,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617596959,23093248000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617597959,75430,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617597959,7692,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617597959,14974,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617597959,23093248000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617598962,75385,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617598962,7892,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617598962,15457,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617598962,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617599963,75498,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617599963,4695,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617599963,18427,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617599963,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617600965,75729,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617600965,9281,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617600965,27012,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617600965,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617601965,75549,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617601965,7800,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617601965,23400,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617601965,23052288000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617602974,75515,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617602974,12462,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617602974,20142,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617602974,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617603975,75667,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617603975,4595,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617603975,27205,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617603975,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617604987,75658,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617604987,12450,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617604987,20989,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617604987,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617605988,75654,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617605988,12500,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617605988,20342,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617605988,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617606990,75736,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617606990,9290,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617606990,18682,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617606990,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617607990,75759,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617607990,17200,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617607990,22369,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617607990,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617609001,75788,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617609001,7715,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617609001,17896,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617609001,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617610001,75820,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617610001,9300,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617610001,19838,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617610001,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617611002,75871,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617611002,6293,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617611002,19882,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617611002,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617612002,75969,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617612002,9390,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617612002,19900,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617612002,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617613010,76005,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617613010,9343,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617613010,21536,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617613010,23035904000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617614010,75973,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617614010,7792,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617614010,20322,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617614010,23035904000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617615023,75979,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617615023,7692,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617615023,21667,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617615023,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617616024,76039,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617616024,10889,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617616024,18840,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617616024,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617617034,76044,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617617034,15544,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617617034,19373,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617617034,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617618034,76098,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617618034,10900,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617618034,22635,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617618034,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617619049,76213,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617619049,9270,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617619049,21811,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617619049,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617620049,76234,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617620049,12400,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617620049,20575,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617620049,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617621052,76344,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617621052,14057,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617621052,22602,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617621052,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617622052,76392,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617622052,20400,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617622052,20485,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617622052,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617623061,75657,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617623061,15445,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617623061,28363,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617623061,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617624062,75579,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617624062,13986,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617624062,30192,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617624062,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617625068,75588,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617625068,15621,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617625068,24956,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617625068,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617626068,75660,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617626068,10889,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617626068,28458,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617626068,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617627075,75622,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617627075,4563,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617627075,18820,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617627075,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617628076,75620,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617628076,7892,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617628076,18698,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617628076,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617629084,75602,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617629084,3078,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617629084,20393,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617629084,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617630084,75735,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617630084,12500,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617630084,24284,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617630084,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617631097,75942,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617631097,3060,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617631097,25515,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617631097,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617632098,75667,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617632098,10989,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617632098,22668,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617632098,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617633112,75682,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617633112,16962,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617633112,18929,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617633112,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617634112,75706,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617634112,6193,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617634112,22067,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617634112,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617635113,75681,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617635113,7800,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617635113,19325,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617635113,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617636113,75733,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617636113,7900,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617636113,19127,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617636113,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617637113,75732,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617637113,12400,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617637113,18630,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617637113,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617638114,75776,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617638114,14085,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617638114,21096,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617638114,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617639119,75731,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617639119,4681,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617639119,15728,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617639119,23035904000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617640119,75856,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617640119,4695,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617640119,16082,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617640119,23035904000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617641133,76772,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617641133,9270,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617641133,40891,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617641133,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617642133,77544,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617642133,3000,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617642133,41769,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617642133,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617643142,77635,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617643142,12500,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617643142,38635,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617643142,23031808000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617644143,77691,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617644143,3096,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617644143,46701,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617644143,23031808000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617645155,78116,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617645155,12339,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617645155,23465,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617645155,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617646155,78598,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617646155,6274,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617646155,22712,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617646155,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617647156,78995,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617647156,4609,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617647156,23368,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617647156,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617648157,79074,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617648157,18781,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617648157,42218,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617648157,23015424000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617649163,80051,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617649163,7792,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617649163,50290,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617649163,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617650166,80912,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617650166,7692,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617650166,45026,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617650166,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617651190,81791,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617651191,9251,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617651191,51966,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617651191,23031808000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617652192,82750,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617652192,15600,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617652192,28340,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617652192,23031808000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617653204,82953,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617653204,7806,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617653204,18896,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617653204,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617654204,82989,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617654204,15438,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617654204,41371,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617654204,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617655219,82858,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617655219,3158,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617655219,27763,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617655219,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617656220,82914,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617656220,18800,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617656220,28266,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617656220,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617657229,82931,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617657229,12289,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617657229,51681,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617657229,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617658230,82982,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617658230,14085,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617658230,39110,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617658230,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617659239,82925,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617659239,10923,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617659239,57536,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617659239,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617660240,82875,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617660240,0,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617660240,49865,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617660240,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617661258,83311,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617661258,9180,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617661258,52814,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617661258,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617662259,83191,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617662259,21878,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617662259,58885,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617662259,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617663267,82877,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617663267,7730,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617663267,39499,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617663267,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617664267,82906,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617664267,18700,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617664267,44448,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617664267,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617665279,83013,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617665279,14087,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617665279,29734,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617665279,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617666280,84019,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617666280,13986,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617666280,39350,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617666280,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617667292,84720,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617667292,10781,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617667292,37927,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617667292,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617668293,84966,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617668293,6293,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617668293,32908,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617668293,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617669294,84865,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617669294,1495,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617669294,8045,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617669294,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617670294,84919,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617670294,10989,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617670294,3291,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617670294,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617671306,84894,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617671306,7692,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617671306,14837,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617671306,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617672307,84853,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617672307,9390,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617672307,21251,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617672307,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617673316,84889,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617673316,4662,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617673316,12931,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617673316,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617674316,84875,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617674316,12500,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617674316,26024,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617674316,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617675323,84946,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617675323,7738,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617675323,39441,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617675323,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617676324,84980,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617676324,9290,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617676324,31814,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617676324,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617677334,83931,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617677334,12388,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617677334,49432,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617677334,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617678335,82540,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617678335,14085,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617678335,36215,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617678335,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617679346,82009,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617679346,1581,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617679346,20646,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617679346,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617680347,81723,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617680347,14000,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617680347,24435,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617680347,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617681355,81041,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617681355,10912,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617681355,28260,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617681355,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617682356,81186,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617682356,13986,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617682356,34723,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617682356,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617683367,81304,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617683367,6237,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617683367,22633,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617683367,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617684368,81343,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617684368,7792,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617684368,24736,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617684368,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617685368,81346,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617685368,7776,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617685368,22728,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617685368,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617686369,81262,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617686369,3100,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617686369,25713,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617686369,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617687377,81256,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617687377,9325,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617687377,25000,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617687377,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617688378,81226,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617688378,9300,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617688378,23191,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617688378,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617689391,81236,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617689391,7707,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617689391,18559,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617689391,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617690391,79467,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617690391,6400,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617690391,20500,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617690391,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617691393,79435,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617691393,7768,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617691393,18071,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617691393,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617692394,79496,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617692394,13986,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617692394,28715,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617692394,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617693399,79541,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617693399,4681,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617693399,20280,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617693399,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617694400,79305,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617694400,3096,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617694400,20962,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617694400,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617695405,79367,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617695405,7753,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617695405,21982,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617695405,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617696406,79407,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617696406,17182,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617696406,21865,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617696406,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617697410,79514,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617697411,12437,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617697411,23629,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617697411,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617698411,79510,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617698411,7800,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617698411,25300,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617698411,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617699421,80720,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617699421,9316,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617699421,42432,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617699421,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617700422,80947,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617700422,17182,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617700422,29896,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617700422,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617701423,81333,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617701423,6193,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617701423,35976,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617701423,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617702424,81353,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617702424,6293,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617702424,28903,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617702424,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617703425,81429,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617703425,4600,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617703425,19881,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617703425,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617704426,81424,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617704426,9390,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617704426,21698,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617704426,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617705426,81386,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617705426,9400,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617705426,16556,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617705426,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617706426,81384,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617706426,7800,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617706426,19559,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617706426,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617707437,81366,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617707437,3063,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617707437,23159,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617707437,23040000000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617708437,81180,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617708437,12600,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617708437,20699,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617708437,23040000000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617709451,81908,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617709451,6213,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617709451,22869,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617709451,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617710451,81899,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617710451,4600,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617710451,25384,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617710451,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617711461,82880,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617711461,12363,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617711461,26853,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617711461,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617712461,83375,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617712461,6300,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617712461,29622,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617712461,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617713474,83052,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617713474,10781,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617713474,20453,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617713474,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617714474,83640,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617714474,14000,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617714474,37227,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617714474,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617715475,83683,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617715475,15653,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617715475,27320,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617715475,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617716476,83551,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617716476,9390,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617716476,23460,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617716476,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617717477,83610,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617717477,10900,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617717477,20208,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617717477,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617718477,83656,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617718477,15600,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617718477,24085,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617718477,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617719489,83513,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617719489,7798,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617719489,19909,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617719489,23040000000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617720490,83654,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617720490,4600,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617720490,20421,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617720490,23040000000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617721492,83732,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617721492,9362,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617721492,21437,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617721492,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617722493,83765,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617722493,10889,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617722493,26812,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617722493,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617723494,83762,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617723494,12500,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617723494,25460,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617723494,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617724495,83533,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617724495,12587,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617724495,19655,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617724495,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617725499,83585,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617725499,7784,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617725499,27207,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617725499,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617726500,83594,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617726500,9290,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617726500,28184,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617726500,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617727506,83358,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617727506,14029,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617727506,44161,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617727506,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617728508,82708,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617728508,6126,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617728508,18233,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617728508,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617729530,82169,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617729530,9261,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617729530,17676,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617729530,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617730530,81081,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617730530,10900,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617730530,23915,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617730530,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617731541,80586,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617731541,10792,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617731541,24386,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617731541,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617732541,80092,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617732541,7900,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617732541,19896,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617732541,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617733542,79647,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617733542,4700,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617733542,22355,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617733542,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617734543,79241,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617734543,15584,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617734543,20362,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617734543,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617735546,78841,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617735546,10989,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617735546,21024,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617735546,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617736546,78380,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617736546,6193,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617736546,39066,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617736546,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617737555,77122,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617737555,12376,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617737555,41533,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617737555,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617738556,77129,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617738556,4695,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617738556,27538,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617738556,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617739558,76982,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617739558,12500,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617739558,23022,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617739558,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617740558,76206,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617740558,9300,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617740558,25426,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617740558,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617741565,75820,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617741565,15559,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617741565,28923,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617741565,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617742566,75825,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617742566,17082,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617742566,40717,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617742566,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617743568,75029,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617743568,17131,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617743568,45242,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617743568,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617744569,75093,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617744569,6293,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617744569,32757,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617744569,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617745584,74960,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617745584,13806,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617745584,38225,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617745584,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617746585,74898,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617746585,10989,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617746585,25544,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617746585,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617747595,74763,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617747595,9297,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617747595,22476,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617747595,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617748596,74788,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617748596,12487,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617748596,31254,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617748596,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617749609,74801,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617749609,16996,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617749609,27366,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617749609,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617750610,74894,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617750610,4695,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617750610,19285,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617750610,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617751619,74907,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617751619,15460,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617751619,25056,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617751619,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617752620,74912,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617752620,11000,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617752620,29786,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617752620,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617753629,74753,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617753629,6156,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617753629,33924,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617753629,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617754629,74797,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617754629,10900,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617754629,29057,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617754629,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617755636,74684,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617755636,9297,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617755636,32441,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617755636,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617756637,74702,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617756637,9290,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617756637,34233,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617756637,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617757645,74796,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617757645,3174,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617757645,35276,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617757645,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617758645,74755,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617758645,4700,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617758645,29594,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617758645,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617759649,73891,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617759649,9272,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617759649,23247,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617759649,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617760650,73795,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617760650,4695,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617760650,17978,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617760650,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617761659,73787,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617761659,10891,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617761659,15785,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617761659,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617762659,73781,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617762659,12500,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617762659,12457,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617762659,23019520000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617763667,73751,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617763667,10813,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617763667,5397,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617763667,23023616000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617764667,73648,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617764667,9400,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617764667,22145,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617764667,23023616000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617765678,73634,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617765678,10781,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617765678,21449,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617765678,23023616000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617766678,73683,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617766678,1600,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617766678,22537,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617766678,23023616000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617767680,73796,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617767680,9390,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617767680,23045,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617767680,23023616000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617768680,73813,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617768680,18700,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617768680,23589,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617768680,23023616000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617769692,73622,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617769692,10781,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617769692,30847,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617769692,22777856000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617770693,72664,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617770693,12587,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617770693,27427,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617770693,22777856000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617771704,73512,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617771704,6132,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617771704,22274,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617771704,22474752000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617772704,73709,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617772704,10900,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617772704,30071,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617772704,22474752000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617773715,73986,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617773715,9297,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617773715,21124,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617773715,22474752000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617774716,74400,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617774716,7800,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617774716,16098,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617774716,22474752000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617775729,74916,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617775729,7692,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617775729,33612,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617775729,22474752000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617776729,71275,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617776729,12500,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617776729,33916,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617776729,22474752000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617777740,69056,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617777740,7707,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617777740,20595,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617777740,22474752000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617778740,68930,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617778740,18800,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617778740,23417,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617778740,22474752000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617779751,68854,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617779751,6126,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617779751,19985,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617779751,22478848000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617780753,69077,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617780753,6293,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617780753,31129,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617780753,22478848000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617781753,69171,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617781753,9390,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617781753,29749,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617781753,22478848000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617782754,69127,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617782754,13986,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617782754,21404,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617782754,22478848000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617783757,68765,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617783757,12562,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617783757,22936,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617783757,22478848000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617784758,68766,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617784758,17082,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617784758,36226,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617784758,22478848000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617785759,68998,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617785759,7800,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617785759,27216,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617785759,22482944000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617786759,68589,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617786759,15700,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617786759,39942,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617786759,22482944000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617787759,70027,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617787759,12387,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617787759,32352,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617787759,22482944000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617788760,70097,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617788760,10989,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617788760,15671,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617788760,22482944000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617789766,70044,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617789766,10824,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617789766,17681,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617789766,22482944000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617790766,70154,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617790766,6293,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617790766,15123,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617790766,22482944000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617791777,70125,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617791777,7753,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617791777,23552,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617791777,22482944000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617792778,70290,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617792778,6156,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617792778,21929,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617792778,22482944000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617793781,70358,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617793781,6300,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617793781,16973,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617793781,22482944000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617794782,70339,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617794782,7792,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617794782,17987,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617794782,22482944000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617795795,70398,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617795795,9198,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617795795,17406,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617795795,22482944000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617796796,70384,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617796796,9490,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617796796,20197,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617796796,22482944000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617797804,70369,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617797804,16913,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617797804,22958,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617797804,22482944000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617798805,70888,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617798805,14085,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617798805,47862,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617798805,22482944000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617799815,70095,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617799815,7722,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617799815,46050,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617799815,22482944000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617800816,69622,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617800816,10889,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617800816,24867,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617800816,22482944000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617801830,69694,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617801830,9279,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617801830,21190,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617801830,22515712000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617802831,68960,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617802831,7792,localhost CPU pid=1896,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617802831,21748,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0,null
+1794617802831,22515712000,localhost Memory pid=1896:resident,,,,,true,,0,0,0,0,null,0,0,0,null

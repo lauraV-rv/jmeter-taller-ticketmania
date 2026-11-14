@@ -1,0 +1,23 @@
+﻿WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Creating summariser <summary>
+Created the tree successfully using P10_recursos.jmx
+Starting standalone test @ 2026 Nov 13 20:18:08 COT (1794619088059)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +   1860 in 00:00:22 =   85.5/s Avg:     1 Min:     0 Max:    28 Err:     0 (0.00%) Active: 180 Started: 180 Finished: 0
+summary +   9057 in 00:00:30 =  302.0/s Avg:     1 Min:     0 Max:     8 Err:     0 (0.00%) Active: 432 Started: 432 Finished: 0
+summary =  10917 in 00:00:52 =  211.0/s Avg:     1 Min:     0 Max:    28 Err:     0 (0.00%)
+summary +  14641 in 00:00:30 =  488.0/s Avg:     4 Min:     0 Max:    35 Err:  6792 (46.39%) Active: 500 Started: 500 Finished: 0
+summary =  25558 in 00:01:22 =  312.7/s Avg:     3 Min:     0 Max:    35 Err:  6792 (26.57%)
+summary +  14910 in 00:00:30 =  497.0/s Avg:     7 Min:     0 Max:    38 Err: 14330 (96.11%) Active: 500 Started: 500 Finished: 0
+summary =  40468 in 00:01:52 =  362.1/s Avg:     4 Min:     0 Max:    38 Err: 21122 (52.19%)
+summary +  14792 in 00:00:30 =  493.1/s Avg:     9 Min:     0 Max:    39 Err: 14504 (98.05%) Active: 500 Started: 500 Finished: 0
+summary =  55260 in 00:02:22 =  389.9/s Avg:     5 Min:     0 Max:    39 Err: 35626 (64.47%)
+summary +  14905 in 00:00:30 =  496.8/s Avg:     6 Min:     0 Max:    97 Err:  8817 (59.15%) Active: 500 Started: 500 Finished: 0
+summary =  70165 in 00:02:52 =  408.5/s Avg:     5 Min:     0 Max:    97 Err: 44443 (63.34%)
+summary +   4228 in 00:00:09 =  492.5/s Avg:     3 Min:     0 Max:    63 Err:   810 (19.16%) Active: 0 Started: 500 Finished: 500
+summary =  74393 in 00:03:00 =  412.5/s Avg:     5 Min:     0 Max:    97 Err: 45253 (60.83%)
+Tidying up ...    @ 2026 Nov 13 20:21:08 COT (1794619268586)
+... end of run

@@ -2,7 +2,7 @@
 <jmeterTestPlan version="1.2" properties="5.0" jmeter="5.6.3">
 <hashTree>
 <TestPlan guiclass="TestPlanGui" testclass="TestPlan" testname="P02 - Carga: ramp-up de 1 s vs 60 s">
-  <stringProp name="TestPlan.comments">Pregunta 2. Variable que cambia: periodo de subida (propiedad subida: 1 y 60). Fijo: 300 usuarios, duracion 120 s, bucle infinito, temporizador 500-1500 ms.</stringProp>
+  <stringProp name="TestPlan.comments">Pregunta 2. Variable que cambia: periodo de subida (propiedad subida: 1 y 60). Fijo: 100 usuarios, duracion 120 s, bucle infinito, temporizador 500-1500 ms.</stringProp>
   <boolProp name="TestPlan.functional_mode">false</boolProp>
   <boolProp name="TestPlan.tearDown_on_shutdown">true</boolProp>
   <boolProp name="TestPlan.serialize_threadgroups">false</boolProp>
@@ -43,7 +43,7 @@
 <hashTree/>
 <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Compra - subida variable (propiedad subida)">
   <stringProp name="TestPlan.comments"></stringProp>
-  <stringProp name="ThreadGroup.num_threads">300</stringProp>
+  <stringProp name="ThreadGroup.num_threads">100</stringProp>
   <stringProp name="ThreadGroup.ramp_time">${__P(subida,1)}</stringProp>
   <boolProp name="ThreadGroup.same_user_on_next_iteration">true</boolProp>
   <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
