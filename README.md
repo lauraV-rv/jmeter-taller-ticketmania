@@ -16,9 +16,9 @@ entregables/                  Documentos de Word de la segunda y la tercera nota
 
 El plan `pruebas/jmeter/Ticketmania.jmx` simula el flujo de compra visto en clase: consulta de tarifas, selección de tarifa y cantidad (tomadas de `datos.csv`) y pago de la reserva. El número de reserva se extrae con un Extractor JSON y el pago se valida con una Aserción JSON (`estado = APROBADO`).
 
-Escenario del despliegue: Grupo de Hilos estándar con 200 usuarios, subida de 300 segundos, contador del bucle en 1 y Temporizador Aleatorio Uniforme de 500 a 1500 ms. El CSV se lee con ruta relativa (`datos.csv`) y el plan no usa plugins, para que corra igual en GitHub Actions.
+Escenario del despliegue: Grupo de Hilos estándar con 200 usuarios, subida de 300 segundos, contador del bucle en 1 y Temporizador Aleatorio Uniforme de 500 a 1500 ms. El CSV se lee con ruta relativa (`datos.csv`). Como en la clase, el plan tiene los listeners Reporte resumen, jp@gc Transactions per Second y jp@gc PerfMon (ServerAgent en el puerto 4444); el pipeline instala esos plugins con el Plugins Manager antes de ejecutarlo.
 
-El workflow `rendimiento.yml` corre en cada push a `main` o a mano. En un solo job instala Java 17 y JMeter 5.6.3, levanta la API, espera a que `/api/salud` responda, ejecuta el plan en modo no-GUI, revisa el `.jtl` (si hay peticiones fallidas el job queda en rojo) y sube el reporte HTML como artefacto `reporte-rendimiento`, aunque un paso anterior haya fallado.
+El workflow `rendimiento.yml` corre en cada push a `main` o a mano. En un solo job instala Java 17, JMeter 5.6.3 y los plugins del plan, levanta la API, espera a que `/api/salud` responda, ejecuta el plan en modo no-GUI, revisa el `.jtl` (si hay peticiones fallidas el job queda en rojo) y sube el reporte HTML como artefacto `reporte-rendimiento`, aunque un paso anterior haya fallado.
 
 Ejecución local:
 

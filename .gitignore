@@ -4,3 +4,4 @@ jmeter.log
 pruebas/jmeter/reporte/
 __pycache__/
 ~$*
+pruebas/jmeter/perfmon.csv
