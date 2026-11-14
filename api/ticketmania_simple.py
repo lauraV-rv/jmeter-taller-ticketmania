@@ -1,16 +1,6 @@
 #!/usr/bin/env python3
 """
-API simulada SIMPLE de compra de boletas TicketMania (Colombia vs Chile).
-Para enseñar JMeter. Sin topes, sin cola, sin límite de boletas y sin token.
-Solo usa la biblioteca estándar de Python (3.8 o superior).
 
-Uso:
-  python3 ticketmania_simple.py              # puerto 8080
-  python3 ticketmania_simple.py --puerto 9000
-
-Flujo:
-  1) POST /api/seleccion  {"tarifa": "general", "cantidad": 2}  -> {"reserva": "..."}
-  2) POST /api/pago       {"reserva": "..."}                    -> {"estado": "APROBADO", ...}
 """
 import argparse
 import json

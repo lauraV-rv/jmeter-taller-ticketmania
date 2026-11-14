@@ -12,11 +12,11 @@ pruebas/experimentacion/      Planes de las 10 preguntas, datos, scripts y resul
 entregables/                  Documentos de Word de la segunda y la tercera nota
 ```
 
-## Segunda nota: plan de JMeter y despliegue en el pipeline
+## Plan de JMeter y despliegue en el pipeline
 
-El plan `pruebas/jmeter/Ticketmania.jmx` simula el flujo de compra visto en clase: consulta de tarifas, selección de tarifa y cantidad (tomadas de `datos.csv`) y pago de la reserva. El número de reserva se extrae con un Extractor JSON y el pago se valida con una Aserción JSON (`estado = APROBADO`).
+El plan `pruebas/jmeter/Ticketmania.jmx` simula el flujo de compra: consulta de tarifas, selección de tarifa y cantidad (tomadas de `datos.csv`) y pago de la reserva. El número de reserva se extrae con un Extractor JSON y el pago se valida con una Aserción JSON (`estado = APROBADO`).
 
-Escenario del despliegue: Grupo de Hilos estándar con 200 usuarios, subida de 300 segundos, contador del bucle en 1 y Temporizador Aleatorio Uniforme de 500 a 1500 ms. El CSV se lee con ruta relativa (`datos.csv`). Como en la clase, el plan tiene los listeners Reporte resumen, jp@gc Transactions per Second y jp@gc PerfMon (ServerAgent en el puerto 4444); el pipeline instala esos plugins con el Plugins Manager antes de ejecutarlo.
+Escenario del despliegue: Grupo de Hilos estándar con 200 usuarios. El CSV se lee con ruta relativa (`datos.csv`). El plan tiene los listeners Reporte resumen, jp@gc Transactions per Second y jp@gc PerfMon (ServerAgent en el puerto 4444), el pipeline instala esos plugins con el Plugins Manager antes de ejecutarlo.
 
 El workflow `rendimiento.yml` corre en cada push a `main` o a mano. En un solo job instala Java 17, JMeter 5.6.3 y los plugins del plan, levanta la API, espera a que `/api/salud` responda, ejecuta el plan en modo no-GUI, revisa el `.jtl` (si hay peticiones fallidas el job queda en rojo) y sube el reporte HTML como artefacto `reporte-rendimiento`, aunque un paso anterior haya fallado.
 
@@ -28,10 +28,9 @@ cd pruebas/jmeter
 jmeter -n -t Ticketmania.jmx -l resultados.jtl -e -o reporte
 ```
 
-## Tercera nota: experimentación "¿Qué pasaría si...?"
+## Experimentación "¿Qué pasaría si...?"
 
-En `pruebas/experimentacion` hay un plan por pregunta (`P01` a `P10`). Cada plan deja fijo el escenario y expone como propiedad la única variable que cambia entre corridas (por ejemplo `-Jusuarios=20` y `-Jusuarios=500`). `ejecutar_experimentos.ps1` reinicia la API antes de cada corrida, ejecuta JMeter en modo no-GUI y guarda el reporte HTML en `resultados/<corrida>/reporte`; `analizar.py` resume las corridas en `resultados/resumen.json`. Los planes de estrés y recursos usan los plugins jpgc (Ultimate Thread Group, Transactions per Second y PerfMon con ServerAgent en el puerto 4444). El pipeline no ejecuta esta carpeta.
+En `pruebas/experimentacion` hay un plan por pregunta (`P01` a `P10`). Cada plan deja fijo el escenario y expone como propiedad la única variable que cambia entre corridas (por ejemplo `-Jusuarios=20` y `-Jusuarios=500`). `ejecutar_experimentos.ps1` reiniciar la API antes de cada corrida, ejecuta JMeter en modo no-GUI y guarda el reporte HTML en `resultados/<corrida>/reporte`; `analizar.py` resume las corridas en `resultados/resumen.json`. Los planes de estrés y recursos usan los plugins jpgc (Ultimate Thread Group, Transactions per Second y PerfMon con ServerAgent en el puerto 4444). El pipeline no ejecuta esta carpeta.
 
-Hallazgos principales: la API responde en 1 a 2 ms y su throughput crece en proporción a los usuarios mientras las conexiones llegan repartidas; cuando muchos usuarios llegan en el mismo instante rechaza la mayoría de las conexiones (su cola de conexiones pendientes es de 5); y en un solo computador con Windows el primer límite son los puertos TCP (unas 130 conexiones nuevas por segundo), no la CPU ni la memoria.
+Hallazgos principales: la API responde y su throughput crece en proporción a los usuarios mientras las conexiones llegan repartidas; cuando muchos usuarios llegan en el mismo instante rechaza la mayoría de las conexiones (su cola de conexiones pendientes es de 5), y en un solo computador con Windows el primer límite son los puertos TCP (unas 130 conexiones nuevas por segundo), no la CPU ni la memoria.
 
-Las respuestas, los escenarios, las capturas y las limitaciones están en `entregables/`.
